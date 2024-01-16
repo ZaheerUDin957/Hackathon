@@ -1,0 +1,12 @@
+# requirements.txt
+altair==5.1.2
+langsmith==0.0.79
+numpy==1.25.2
+pypdf==3.17.3
+streamlit==1.25.0
+tox==3.24.3
+docx2txt==0.7
+PyMuPDF==1.18.17
+langchain
+scikit-learn==0.24.2
+sentence_transformers
